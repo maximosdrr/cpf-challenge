@@ -174,4 +174,4 @@ _Benefícios do Docker Compose:_
 - **Reprodutibilidade:** Permite a replicação do ambiente de desenvolvimento em diferentes máquinas.
 - **Facilidade de Escalonamento:** Simplifica o gerenciamento de aplicativos complexos com múltiplos contêineres.
 
-Em resumo, o Docker simplifica o processo de empacotamento e distribuição de aplicativos em contêineres, enquanto o Docker Compose facilita a orquestração desses contêineres em ambientes complexos. Isso torna o desenvolvimento, implantação e escalonamento de aplicativos mais eficientes e consistentes.
+Em resumo, o Docker simplifica o processo de empacotamento e distribuição de aplicativos em contêineres, enquanto o Docker Compose facilita a orquestração desses contêineres em ambientes complexos. Isso torna o desenvolvimento, implantação e escalonamento de aplicativos mais eficientes e consistentes. 
