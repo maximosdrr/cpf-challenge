@@ -6,7 +6,7 @@ Tentei Deixar o mais simples possível para inicialização do projeto, então u
 
 - Instalar pacotes: `pnpm install` | `yarn` | `npm install`
 - Criar banco de dados `CREATE DATABASE cpf_project (O nome do banco de dados tem que ser igual ao que esta na env POSTGRES_DB_NAME)`
-- Executar aplicação: `docker-compose up -d`
+- Executar aplicação: `docker-compose up --build`
 - Executar testes: `npm run test`
 - A documentação das rotas pode ser acessada em: `http://localhost:3000/api/`
 
